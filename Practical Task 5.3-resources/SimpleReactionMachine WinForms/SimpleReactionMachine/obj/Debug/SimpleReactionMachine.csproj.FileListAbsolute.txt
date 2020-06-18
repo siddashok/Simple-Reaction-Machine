@@ -1,0 +1,20 @@
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.csprojAssemblyReference.cache
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.Properties.Resources.resources
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.ReactionMachineForm.resources
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.csproj.GenerateResource.cache
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.csproj.CoreCompileInputs.cache
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\bin\Debug\SimpleReactionMachine.exe.config
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\bin\Debug\SimpleReactionMachine.exe
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\bin\Debug\SimpleReactionMachine.pdb
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.exe
+D:\Akshit\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.pdb
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\bin\Debug\SimpleReactionMachine.exe.config
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\bin\Debug\SimpleReactionMachine.exe
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\bin\Debug\SimpleReactionMachine.pdb
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.csprojAssemblyReference.cache
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.Properties.Resources.resources
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.ReactionMachineForm.resources
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.csproj.GenerateResource.cache
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.csproj.CoreCompileInputs.cache
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.exe
+D:\Akshit\[W] Simple Reaction Game\Practical Task 5.3-resources\SimpleReactionMachine WinForms\SimpleReactionMachine\obj\Debug\SimpleReactionMachine.pdb

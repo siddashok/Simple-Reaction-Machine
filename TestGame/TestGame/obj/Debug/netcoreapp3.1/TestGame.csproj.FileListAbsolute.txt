@@ -1,0 +1,26 @@
+D:\Akshit\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.exe
+D:\Akshit\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.deps.json
+D:\Akshit\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.runtimeconfig.json
+D:\Akshit\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.runtimeconfig.dev.json
+D:\Akshit\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.dll
+D:\Akshit\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.pdb
+D:\Akshit\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.csprojAssemblyReference.cache
+D:\Akshit\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.csproj.CoreCompileInputs.cache
+D:\Akshit\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.AssemblyInfoInputs.cache
+D:\Akshit\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.AssemblyInfo.cs
+D:\Akshit\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.dll
+D:\Akshit\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.pdb
+D:\Akshit\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.genruntimeconfig.cache
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.csprojAssemblyReference.cache
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.csproj.CoreCompileInputs.cache
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.AssemblyInfoInputs.cache
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.AssemblyInfo.cs
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.dll
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.pdb
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.exe
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.deps.json
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.runtimeconfig.json
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.runtimeconfig.dev.json
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.dll
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\bin\Debug\netcoreapp3.1\TestGame.pdb
+D:\Akshit\[W] Simple Reaction Game\TestGame\TestGame\obj\Debug\netcoreapp3.1\TestGame.genruntimeconfig.cache
